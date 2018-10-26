@@ -1,0 +1,12 @@
+Display		KEYWORD1
+print KEYWORD2
+cero KEYWORD2
+uno KEYWORD2
+dos KEYWORD2
+tres KEYWORD2
+cuatro KEYWORD2
+cinco KEYWORD2
+seis KEYWORD2
+siete KEYWORD2
+ocho KEYWORD2
+nueve KEYWORD2
